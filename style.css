@@ -1,4 +1,4 @@
-/* Center the page and give the story space around its edges. */
+/* A centered page and space around the story. */
 body {
   margin: 0;
   background-color: #edf0ef;
@@ -101,7 +101,7 @@ figcaption {
   color: #555;
 }
 
-/* Highlight a passage from the story with color, space and a border. */
+/* Color, spacing and a border used to make the pull quote stand out. */
 blockquote {
   margin: 28px 0;
   padding: 20px 24px;
